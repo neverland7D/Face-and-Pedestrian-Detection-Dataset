@@ -16,5 +16,9 @@ Data analyse can be found in Wiki Page.
 
 ## References
 [1]	Zheng L, Zhang H, Sun S, et al. Person re-identification in the wild[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1367-1376.
+
+
 [2]	Yang S, Luo P, Loy C C, et al. Wider face: A face detection benchmark[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 5525-5533.
+
+
 [3]	Xiao T, Li S, Wang B, et al. End-to-end deep learning for person search[J]. arXiv preprint arXiv:1604.01850, 2016, 1(2).
