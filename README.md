@@ -12,7 +12,7 @@ Our dataset is collected from three different dataset:
 Dataset can be downloaded from [BaiduYun Link](https://pan.baidu.com/s/1bbCfi7XKv64xGwc5yZnIKA).
 
 ## Data Analyse
-Data analyse can be found in Wiki Page.
+Data analyse can be found in [Wiki Page](https://github.com/neverland7D/Face-and-Pedestrian-Detection-Dataset/wiki/Data-Info).
 
 ## References
 [1]	Zheng L, Zhang H, Sun S, et al. Person re-identification in the wild[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1367-1376.
