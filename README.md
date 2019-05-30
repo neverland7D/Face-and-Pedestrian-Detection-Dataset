@@ -1,4 +1,4 @@
-# FEEDS Dataset
+# Face and Pedestrian Detection Dataset
 Detection dataset designed for Integrated Detection Method of Pedestrian and Face.
 
 ## Introduction
