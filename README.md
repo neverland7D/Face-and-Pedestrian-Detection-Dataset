@@ -9,5 +9,9 @@ Our dataset is collected from three different dataset:
 - [WIDER Pedestrian](http://wider-challenge.org/terms_and_conditions_2018.html) dataset.
 - [CUHK Person Search](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) (Large Scale Benchmark for Person Search) dataset.
 
+Dataset can be downloaded from [BaiduYun Link](https://pan.baidu.com/s/1bbCfi7XKv64xGwc5yZnIKA).
+
+## Data Analyse
+Data analyse can be found in Wiki Page.
 
 
