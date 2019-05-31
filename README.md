@@ -10,7 +10,7 @@ Our dataset is collected from three different dataset:
 - [CUHK Person Search](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) (Large Scale Benchmark for Person Search) dataset.
 
 ## Download
-Dataset is formed with images and annotation, annotations can be found in 'annotations' folder, images and the whole dataset can be downloaded from [BaiduYun Link](链接：https://pan.baidu.com/s/1-4rO4MdfnD-JDXe-u8fnlw)(Extract code:e9i9).
+Dataset is formed with images and annotation, annotations can be found in 'annotations' folder, images and the whole dataset can be downloaded from [BaiduYun Link](https://pan.baidu.com/s/1-4rO4MdfnD-JDXe-u8fnlw) (Extract code:e9i9).
 
 ## Data Analyse
 Data analyse can be found in [Wiki Page](https://github.com/neverland7D/Face-and-Pedestrian-Detection-Dataset/wiki/Data-Info).
